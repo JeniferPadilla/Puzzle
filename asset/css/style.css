@@ -1,0 +1,22 @@
+.tabla {
+    margin: 0 auto;
+    border: rgb(0, 204, 255) 5px solid;
+    padding: 20px;
+    width: 60%;
+}
+  button{
+    width: 45%;
+	height: 45px;
+  }
+  body {
+    background-color: #dfe959;
+  }
+.titulo {
+  color: #d21e1e;
+  text-align: center;
+  font-size: 50px;
+  font-weight: 200;
+}
+h2{
+    text-align: center;
+}
